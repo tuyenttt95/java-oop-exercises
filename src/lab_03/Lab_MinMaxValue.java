@@ -1,4 +1,4 @@
-package Lesson_03;
+package lab_03;
 
 public class Lab_MinMaxValue {
 

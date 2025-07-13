@@ -1,3 +1,5 @@
+package lab_00;
+
 public class Test_for {
 
     public static void main(String[] args) {

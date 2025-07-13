@@ -1,8 +1,4 @@
-package Lesson_03;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
+package lab_03;
 
 public class Lab_Merge2Array {
 

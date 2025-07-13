@@ -1,3 +1,5 @@
+package lab_00;
+
 import java.util.Scanner;
 
 public class SoChanLe {
