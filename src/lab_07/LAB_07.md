@@ -6,9 +6,7 @@
 - For example, company has 3 FTE and 2 contractor
 
 ## LAB 7.2
-Credit: **Nguyen Thinh Khang (Dev)**, in Selenium K1 for contributing the exercise.
-* This is the first simple version racing contest problem.
-## Racing animal simple version* 
+## Racing animal simple version*
 * Horse: Max 75 km/h
 * Tiger: Max 100 Km/h
 * Dog: Max 60 KM/h*
