@@ -88,13 +88,6 @@ public class RacingAnimal {
         }
         System.out.println();
 
-        // Display info of animals in the race
-        System.out.println("== List of animals in the race ==");
-        for (int i = 0; i < raceAnimals.size(); i++) {
-            Animal animal = raceAnimals.get(i);
-            System.out.println(animal.toString());
-        }
-
         // Find the animal with the highest speed
         Animal winner = null;
         for (Animal animal : raceAnimals) {
